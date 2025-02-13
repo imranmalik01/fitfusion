@@ -11,3 +11,8 @@ Fast & Lightweight – Optimized for performance.<br>
 **Technologies Used**<br>
 HTML5, CSS3, JavaScript<br>
 FontAwesome for Icons<br>
+
+
+## 📸 Preview
+
+![FitFusion Landing Page](asset/Screenshot1.png)
