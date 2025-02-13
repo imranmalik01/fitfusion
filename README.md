@@ -15,4 +15,8 @@ FontAwesome for Icons<br>
 
 ## 📸 Preview
 
-![FitFusion Landing Page](images/Screenshot1.png)
+![FitFusion Home](images/Screenshot1.png)
+![FitFusion Services](images/Screenshot2.png)
+![FitFusion About](images/Screenshot3.png)
+![FitFusion Blog](images/Screenshot4.png)
+![FitFusion Review](images/Screenshot5.png)
