@@ -1,13 +1,13 @@
-**FitFusion**
-FitFusion is a sleek and responsive landing page designed for a fitness-related platform. It showcases the brand, highlights key features, and encourages user engagement through a modern and visually appealing interface.
+**FitFusion**<br>
+FitFusion is a sleek and responsive landing page designed for a fitness-related platform. It showcases the brand, highlights key features, and encourages user engagement through a modern and visually appealing interface.<br>
 
-**Features**
-Responsive Design – Optimized for all devices (desktop, tablet, mobile).
-Clean UI/UX – Engaging layout with a modern fitness aesthetic.
-Call-to-Action (CTA) Sections – Encourages sign-ups or inquiries.
-Animations & Smooth Scrolling – Enhances user experience.
-Fast & Lightweight – Optimized for performance.
+**Features**<br>
+Responsive Design – Optimized for all devices (desktop, tablet, mobile).<br>
+Clean UI/UX – Engaging layout with a modern fitness aesthetic.<br>
+Call-to-Action (CTA) Sections – Encourages sign-ups or inquiries.<br>
+Animations & Smooth Scrolling – Enhances user experience.<br>
+Fast & Lightweight – Optimized for performance.<br>
 
-**Technologies Used**
-HTML5, CSS3, JavaScript
-FontAwesome for Icons
+**Technologies Used**<br>
+HTML5, CSS3, JavaScript<br>
+FontAwesome for Icons<br>
